@@ -138,7 +138,7 @@ ShreeSwastikLibrary/
 │   └── index.html
 │
 └── backend/
-    ├── src/ (if present)
+    ├── src/ 
     ├── index.js                # Main server file
     ├── routes/                 # Express routes
     ├── controllers/            # Controllers / handlers
